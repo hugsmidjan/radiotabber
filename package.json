@@ -1,0 +1,14 @@
+{
+  "name": "radiotabber",
+  "version": "1.0.0",
+  "main": "radiotabber.js",
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@github.com/hugsmidjan/radiotabber.git"
+  },
+  "author": "Hugsmiðjan ehf. (www.hugsmidjan.is)",
+  "contributors": [
+    "Már Örlygsson <mar@hugsmidjan.is>"
+  ],
+  "license": "ISC"
+}
